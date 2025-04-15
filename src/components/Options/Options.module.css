@@ -1,0 +1,19 @@
+.buttonsContainer {
+  margin: 15px auto;
+  display: flex;
+  gap: 10px;
+
+  .btn {
+    width: 80px;
+    padding: 5px;
+    font-weight: bold;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .resetBtn {
+    background-color: red;
+  }
+}
